@@ -1,0 +1,1 @@
+FILE = 'shop.json'
